@@ -38,7 +38,7 @@ A simple URL shortening service built with **Laravel 11** that provides endpoint
 ### **1. Clone the Repository**
 ```bash
 git clone git@github.com:spiCkyyy1/url-shortner.git
-cd <project-directory>
+cd url-shortner
 ```
 
 ### **2. Install Dependencies**
